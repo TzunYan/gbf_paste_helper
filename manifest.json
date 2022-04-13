@@ -1,0 +1,13 @@
+{
+    "name": "GBF paste helper",
+    "description": "碧藍幻想助戰自動貼上",
+    "version": "8.89",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "content_scripts": [
+      {
+        "matches": ["http://game.granbluefantasy.jp/*"],
+        "js": ["contentScript.js"]
+      }
+    ]
+  }
