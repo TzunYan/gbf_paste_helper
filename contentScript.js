@@ -39,3 +39,4 @@ function auto_paste() {
         });
     }
 }
+auto_paste();
