@@ -6,13 +6,13 @@
 
     1. 前往 [chrome:flags](chrome:flags)
     2. 搜尋 `Insecure origins treated as secure`
-    3. 將碧蘭幻想網址 `http://game.granbluefantasy.jp` 貼上去
+    3. 將碧蘭幻想網址 `https://game.granbluefantasy.jp` 貼上去
     4. 重啟瀏覽器
 
 2. 允許 gbf 使用剪貼簿功能
 
    1. 前往 [chrome://settings/content/clipboard](chrome://settings/content/clipboard)
-   2. 點選新增，填入 `http://game.granbluefantasy.jp`
+   2. 點選新增，填入 `https://game.granbluefantasy.jp`
 
 3. 匯入該擴充功能
 
