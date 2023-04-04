@@ -6,7 +6,7 @@
   "permissions": ["storage", "activeTab", "scripting"],
   "content_scripts": [
     {
-      "matches": ["http://game.granbluefantasy.jp/*"],
+      "matches": ["https://game.granbluefantasy.jp/*"],
       "js": ["contentScript.js"],
       "run_at": "document_end",
       "all_frames": true
